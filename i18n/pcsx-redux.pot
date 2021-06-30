@@ -132,7 +132,7 @@ msgid ""
 "in sync, by changing its pitch. Consumes more CPU."
 msgstr ""
 
-#: src/core/pad.cc:380
+#: src/core/pad.cc:383
 msgid "Auto"
 msgstr ""
 
@@ -274,7 +274,7 @@ msgstr ""
 msgid "Cheats saved to: %s\n"
 msgstr ""
 
-#: src/core/pad.cc:386
+#: src/core/pad.cc:389
 msgid "Circle"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgstr ""
 msgid "Combined pseudo-instructions"
 msgstr ""
 
-#: src/core/pad.cc:416
+#: src/core/pad.cc:418
 msgid "Computer button mapping"
 msgstr ""
 
@@ -310,7 +310,7 @@ msgstr ""
 msgid "Configuration"
 msgstr ""
 
-#: src/core/pad.cc:398
+#: src/core/pad.cc:401
 msgid "Connected"
 msgstr ""
 
@@ -319,7 +319,7 @@ msgstr ""
 msgid "Connection closed!\n"
 msgstr ""
 
-#: src/core/pad.cc:381
+#: src/core/pad.cc:384
 msgid "Controller"
 msgstr ""
 
@@ -417,7 +417,7 @@ msgstr ""
 msgid "Could not open source file %s\n"
 msgstr ""
 
-#: src/core/pad.cc:385
+#: src/core/pad.cc:388
 msgid "Cross"
 msgstr ""
 
@@ -454,7 +454,7 @@ msgstr ""
 msgid "Delay slot notch"
 msgstr ""
 
-#: src/core/pad.cc:402
+#: src/core/pad.cc:405
 msgid "Device type"
 msgstr ""
 
@@ -490,7 +490,7 @@ msgstr ""
 msgid "Displayed"
 msgstr ""
 
-#: src/core/pad.cc:393
+#: src/core/pad.cc:396
 msgid "Down"
 msgstr ""
 
@@ -695,11 +695,11 @@ msgstr ""
 msgid "GPU"
 msgstr ""
 
-#: src/core/pad.cc:457
+#: src/core/pad.cc:460
 msgid "Gamepad"
 msgstr ""
 
-#: src/core/pad.cc:415
+#: src/core/pad.cc:419
 msgid "Gamepad button"
 msgstr ""
 
@@ -790,51 +790,51 @@ msgstr ""
 msgid "Kernel events"
 msgstr ""
 
-#: src/core/pad.cc:382
+#: src/core/pad.cc:385
 msgid "Keyboard"
 msgstr ""
 
-#: src/core/pad.cc:351
+#: src/core/pad.cc:354
 msgid "Keyboard Backspace"
 msgstr ""
 
-#: src/core/pad.cc:347
+#: src/core/pad.cc:350
 msgid "Keyboard Down"
 msgstr ""
 
-#: src/core/pad.cc:353
+#: src/core/pad.cc:356
 msgid "Keyboard Enter"
 msgstr ""
 
-#: src/core/pad.cc:349
+#: src/core/pad.cc:352
 msgid "Keyboard Left"
 msgstr ""
 
-#: src/core/pad.cc:345
+#: src/core/pad.cc:348
 msgid "Keyboard Right"
 msgstr ""
 
-#: src/core/pad.cc:355
+#: src/core/pad.cc:358
 msgid "Keyboard Space"
 msgstr ""
 
-#: src/core/pad.cc:343
+#: src/core/pad.cc:346
 msgid "Keyboard Up"
 msgstr ""
 
-#: src/core/pad.cc:413
+#: src/core/pad.cc:416
 msgid "Keyboard mapping"
 msgstr ""
 
-#: src/core/pad.cc:387
+#: src/core/pad.cc:390
 msgid "L1"
 msgstr ""
 
-#: src/core/pad.cc:387
+#: src/core/pad.cc:390
 msgid "L2"
 msgstr ""
 
-#: src/core/pad.cc:394
+#: src/core/pad.cc:397
 msgid "Left"
 msgstr ""
 
@@ -1038,7 +1038,7 @@ msgstr ""
 msgid "Muted"
 msgstr ""
 
-#: src/core/pad.cc:440
+#: src/core/pad.cc:443
 msgid "No gamepad selected or connected"
 msgstr ""
 
@@ -1105,19 +1105,19 @@ msgstr ""
 msgid "PCSX-Redux booting\n"
 msgstr ""
 
-#: src/core/pad.cc:316
+#: src/core/pad.cc:319
 msgid "Pad"
 msgstr ""
 
-#: src/core/pad.cc:307
+#: src/core/pad.cc:310
 msgid "Pad 1"
 msgstr ""
 
-#: src/core/pad.cc:308
+#: src/core/pad.cc:311
 msgid "Pad 2"
 msgstr ""
 
-#: src/core/pad.cc:301
+#: src/core/pad.cc:304
 msgid "Pad configuration"
 msgstr ""
 
@@ -1150,11 +1150,11 @@ msgstr ""
 msgid "Quit"
 msgstr ""
 
-#: src/core/pad.cc:387
+#: src/core/pad.cc:390
 msgid "R1"
 msgstr ""
 
-#: src/core/pad.cc:388
+#: src/core/pad.cc:391
 msgid "R2"
 msgstr ""
 
@@ -1222,7 +1222,7 @@ msgstr ""
 msgid "Renderer"
 msgstr ""
 
-#: src/core/pad.cc:311
+#: src/core/pad.cc:314
 msgid "Rescan gamepads and re-read game controllers database"
 msgstr ""
 
@@ -1242,7 +1242,7 @@ msgstr ""
 msgid "Reverb"
 msgstr ""
 
-#: src/core/pad.cc:392
+#: src/core/pad.cc:395
 msgid "Right"
 msgstr ""
 
@@ -1279,7 +1279,7 @@ msgstr ""
 msgid "Scratch Pad"
 msgstr ""
 
-#: src/core/pad.cc:386
+#: src/core/pad.cc:389
 msgid "Select"
 msgstr ""
 
@@ -1299,7 +1299,7 @@ msgstr ""
 msgid "Set Breakpoint here"
 msgstr ""
 
-#: src/core/pad.cc:326
+#: src/core/pad.cc:329
 msgid "Set defaults"
 msgstr ""
 
@@ -1462,11 +1462,11 @@ msgstr ""
 msgid "Special"
 msgstr ""
 
-#: src/core/pad.cc:385
+#: src/core/pad.cc:388
 msgid "Square"
 msgstr ""
 
-#: src/core/pad.cc:386 src/gui/gui.cc:700
+#: src/core/pad.cc:389 src/gui/gui.cc:700
 msgid "Start"
 msgstr ""
 
@@ -1567,7 +1567,7 @@ msgstr ""
 msgid "Track %.2d (%s) - Start %.2d:%.2d:%.2d, Length %.2d:%.2d:%.2d\n"
 msgstr ""
 
-#: src/core/pad.cc:385
+#: src/core/pad.cc:388
 msgid "Triangle"
 msgstr ""
 
@@ -1615,7 +1615,7 @@ msgid ""
 "XA audio and audio tracks."
 msgstr ""
 
-#: src/core/pad.cc:360
+#: src/core/pad.cc:363
 msgid "Unknown keyboard key {}"
 msgstr ""
 
@@ -1624,7 +1624,7 @@ msgstr ""
 msgid "Unsupported PPF version (%d).\n"
 msgstr ""
 
-#: src/core/pad.cc:391
+#: src/core/pad.cc:394
 msgid "Up"
 msgstr ""
 
